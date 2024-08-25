@@ -30,6 +30,7 @@ const Footer = () => {
                     <img 
                     src={profile.img} 
                     alt={profile.id}
+                    href={profile.href}
                     width={20} 
                     height={20}
                     />
