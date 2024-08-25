@@ -125,12 +125,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/GurungVinivesh",
+    href: "https://github.com/GurungVinivesh",
   },
   {
     id: 2,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/vinivesh-gurung-5789142b3/",
+    href: "https://www.linkedin.com/in/vinivesh-gurung-5789142b3/",
   },
 ];
 
