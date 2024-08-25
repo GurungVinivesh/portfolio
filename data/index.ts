@@ -86,7 +86,7 @@ export const projects = [
     img: "/p2.svg",
     // iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     // link: "https://github.com/adrianhajdin/zoom-clone",
-    href: "https://example.com/project-one",
+    // href: "https://example.com/project-one",
   },
 ]
 
